@@ -52,7 +52,7 @@ Perfect as a minimalist UI component for blogs or article previews.
 
 Check my other Frontend Mentor solutions [here](https://github.com/IamErickNgooh).
 
-=======
+
 ## 📍 Live Demo
 
 👉 [Check the live project](https://iamerickngooh.github.io/Blog-preview-card/)
