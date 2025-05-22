@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 # 📰 Blog Preview Card
-=======
+
 # 💻 Blog Preview Card – Frontend Mentor Challenge
->>>>>>> be80607f5a2c2af8a8710521d38919a642df9d29
+
 
 <img src="./design/desktop-design.jpg"/>
 
-<<<<<<< HEAD
+
 A clean and responsive **blog preview card**, built with semantic HTML & modern CSS.  
 Fully mobile-first and ready to impress!
 
